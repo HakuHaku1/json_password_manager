@@ -1,6 +1,6 @@
 # json_password_manager
-mini project acivity
+Mini project activity by using the JSON library
 
 
-this project was given to me as an activity that is in
-my course in udemy
+This project was given to me as an activity that is in
+My course on Udemy
